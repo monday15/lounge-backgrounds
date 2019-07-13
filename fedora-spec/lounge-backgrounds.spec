@@ -3,8 +3,7 @@ Version:        1.0
 Release:        1%{?dist}
 Summary:        Dynamic background for gnome desktop
 
-License:        GPLv2+
-License:        Unsplash
+License:        GPLv2+ Unsplash
 
 URL:            https://github.com/monday15/lounge-backgrounds
 Source0:        https://github.com/monday15/lounge-backgrounds/archive/%{version}.tar.gz
