@@ -25,3 +25,6 @@ Source files published under GPLv2+ license. Artworks are under unsplash license
 ## Thanks
 
 Kalev Lember, Florian Müllner, Jakub Steiner, Mike Yukhtenko.
+
+![image](https://user-images.githubusercontent.com/42862490/61173671-d604a800-a5af-11e9-93a9-4f5ea06a7a69.png)
+
